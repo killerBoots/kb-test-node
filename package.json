@@ -19,5 +19,8 @@
     "url": "https://github.com/killerBoots/kb-test-node/issues"
   },
   "homepage": "https://github.com/killerBoots/kb-test-node#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
 }
