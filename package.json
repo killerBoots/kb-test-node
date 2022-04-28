@@ -1,0 +1,23 @@
+{
+  "name": "kb-test-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killerBoots/kb-test-node.git"
+  },
+  "author": "Nate Dickow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killerBoots/kb-test-node/issues"
+  },
+  "homepage": "https://github.com/killerBoots/kb-test-node#readme",
+  "description": ""
+}
